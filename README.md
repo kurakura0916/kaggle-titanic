@@ -1,4 +1,4 @@
-# kaggle-titanic
+# [WIP]kaggle-titanic
 
 ## 概要
 kaggleチュートリアルの[titanic](https://www.kaggle.com/c/titanic)のデータセットを用いた分類問題
